@@ -81,7 +81,7 @@ The project includes the following visualizations:
 
 ## 1. Customer satisfaction is generally high
 
-The average review score across all delivered orders is **4.03/5**, indicating that most customers are satisfied with their shopping experience. Although the overall satisfaction level is positive, there is still room for improvement in customer experience.
+The average review score across all delivered orders is **4.09/5**, indicating that most customers are satisfied with their shopping experience. Although the overall satisfaction level is positive, there is still room for improvement in customer experience.
 
 **Recommendation**
 
@@ -151,7 +151,7 @@ Track average delivery time, delayed deliveries, and customer ratings through in
 
 This analysis demonstrates that customer retention and delivery performance are closely connected to long-term business success.
 
-Although the overall customer satisfaction is relatively high (**4.03/5**), the analysis reveals that longer delivery times negatively influence customer ratings (**correlation = -0.30**). Additionally, cohort analysis indicates that customer retention declines steadily after the first purchase, highlighting the importance of retention-focused marketing strategies.
+Although the overall customer satisfaction is relatively high (**4.09/5**), the analysis reveals that longer delivery times negatively influence customer ratings (**correlation = -0.30**). Additionally, cohort analysis indicates that customer retention declines steadily after the first purchase, highlighting the importance of retention-focused marketing strategies.
 
 By improving delivery efficiency, implementing customer loyalty programs, and continuously monitoring retention metrics, Olist can enhance customer experience, increase repeat purchases, and support sustainable business growth.
 ---
